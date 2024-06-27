@@ -17,6 +17,11 @@
   margin-right: auto;
   overflow-x: auto;
 }
+
+.bicicletas-lista ul {
+  padding: 0px 0px 20px 0px;
+}
+
 .bicicletas-lista li {
   min-width: 280px;
 }
@@ -57,7 +62,7 @@
   .bicicletas-lista {
     padding-bottom: 60px;
   }
-  .bicicletas-lista ul{
+  .bicicletas-lista ul {
     gap: 20px;
   }
 }
